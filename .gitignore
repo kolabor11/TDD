@@ -12,7 +12,8 @@
 bin
 obj
 TDD.csproj
-
+.gitignore
+Debug
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

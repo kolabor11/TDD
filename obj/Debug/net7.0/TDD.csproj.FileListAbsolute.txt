@@ -1,0 +1,14 @@
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\bin\Debug\net7.0\TDD.exe
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\bin\Debug\net7.0\TDD.deps.json
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\bin\Debug\net7.0\TDD.runtimeconfig.json
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\bin\Debug\net7.0\TDD.dll
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\bin\Debug\net7.0\TDD.pdb
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\obj\Debug\net7.0\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\obj\Debug\net7.0\TDD.AssemblyInfoInputs.cache
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\obj\Debug\net7.0\TDD.AssemblyInfo.cs
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\obj\Debug\net7.0\TDD.csproj.CoreCompileInputs.cache
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\obj\Debug\net7.0\TDD.dll
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\obj\Debug\net7.0\refint\TDD.dll
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\obj\Debug\net7.0\TDD.pdb
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\obj\Debug\net7.0\TDD.genruntimeconfig.cache
+C:\Users\kasza\OneDrive\Dokumenty\Studia\Year 2 Semester 2\Programming 2\TDD\obj\Debug\net7.0\ref\TDD.dll
